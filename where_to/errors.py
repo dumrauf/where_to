@@ -1,0 +1,2 @@
+class DuplicateVenueError(Exception):
+    pass

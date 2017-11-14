@@ -1,0 +1,7 @@
+[
+    {
+        "name": "El Cantina",
+        "food": ["Mexican"],
+        "drinks": ["Soft drinks", "Tequila", "Beer"]
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Alan Allen",
+        "wont_eat": ["Meat", "Fish"],
+        "drinks": ["Soft drinks", "Tea"]
+    },
+    {
+        "name": "David Lang",
+        "wont_eat": ["Chinese"],
+        "drinks": ["Beer", "cider"]
+    }
+]

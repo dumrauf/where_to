@@ -1,0 +1,12 @@
+[
+    {
+        "name": "El Cantina",
+        "food": ["Mexican"],
+        "drinks": ["Soft drinks", "Tequila", "Beer"]
+    },
+    {
+        "name": "El Cantina",
+        "food": ["Another Mexican"],
+        "drinks": ["Soft drinks", "Tequila", "Beer", "Gringo Juice"]
+    }
+]
